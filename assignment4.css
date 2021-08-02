@@ -114,3 +114,9 @@ nav * a:hover{
 .space-top {
     margin-top: 40px;
 }
+
+.footer * a{
+    color: rgb(206, 170, 142);
+    text-decoration: underline;
+    padding-right: 15px;
+}
