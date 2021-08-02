@@ -1,0 +1,116 @@
+nav {
+    background-color: white;
+}
+
+nav * a {
+    padding: 10px;
+    margin: 2px;
+    color: black;
+}
+
+nav * a:hover{
+    background-color: rgb(236, 207, 177);
+    color: black;
+    text-decoration: none;
+
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.top-img {
+    width: 100%;
+}
+
+.top {
+    background-color: rgb(243, 243, 243);
+    margin: 30px 0 120px 0;
+}
+
+.top-left{
+    padding: 50px 20px;
+    width: 80%;
+}
+
+
+.floating-section {
+    background-color: rgb(39, 33, 33);
+    color: white;
+    position: absolute;
+    top: 66%;
+    width: 60%;
+    padding: 10px;
+}
+
+.floating-section > h1 {
+    color: rgb(80, 66, 55);
+    font-size: 60px;
+    margin: 0px;
+}
+
+.count-card > h4 {
+    text-transform: uppercase;
+}
+
+.count {
+    color: rgb(233, 195, 112);
+}
+
+.count-card{
+    background-color: rgb(243, 243, 243);
+    margin: 15px 0px;
+    padding: 5px;
+}
+
+.center-row{
+    text-align: center;
+    padding: 0 25%;
+}
+
+.logo{
+    filter: grayscale(100%);
+    width: 100%;
+}
+
+.profile-picture {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.contact-wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact {
+    background-color: rgb(241, 214, 192);
+    padding: 30px;
+
+}
+
+.contact-button {
+    background-color: rgb(235, 185, 139);
+    border: none;
+    padding: 5px 20px;
+}
+
+.contact-info {
+    border-left: solid 1px rgb(145, 143, 141);
+}
+
+.footer{
+    background-color: rgb(41, 37, 34);
+    padding: 25px 30px;
+    color: seashell;
+    display: flex;
+    justify-content: space-between;
+}
+
+.space-top {
+    margin-top: 40px;
+}
